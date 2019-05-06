@@ -1,2 +1,2 @@
 # puppeteer-map
-my puppeteer demo map
+mp-wexin 微信公众平台批量添加成员
